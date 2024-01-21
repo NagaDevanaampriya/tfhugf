@@ -1,0 +1,41 @@
+body
+{
+	background-image: url("rain.png");
+	background-position:center;
+    background-size:cover;
+	
+}
+
+#i
+{
+	width: 80px;
+    margin-left: -7px;
+    border-radius: 90px;
+}
+h1,h3,label{
+    color:blanchedalmond;
+
+}
+#divn{
+	float: none;
+	background: rgba(255,255,255,0.8);
+	border-radius: 15px;
+	height: 150px;
+	width: 790px;
+	}
+
+label
+{
+    color:black;
+}
+ #output
+ {
+	background-color: rgb(213, 204, 235);
+ }
+ input{
+	height: 20px;
+	width: 600px;
+ }
+ hr{
+	color: blue;
+ }
